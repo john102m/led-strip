@@ -15,8 +15,8 @@ IPAddress ip(192, 168, 1, 220 ); // where xx is the desired IP Address
 IPAddress gateway(192, 168, 1, 1); // set gateway to match your network
 IPAddress subnet(255, 255, 255, 0); // set subnet mask
 
-const char *ssid = "SSE Broadband BAF467";
-const char *password = "q2z7Mb2R42Z2PLET";
+const char *ssid = "**********";
+const char *password = "**********";
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 int prevMillis; 
